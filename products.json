@@ -1,0 +1,14 @@
+[
+  { "id": 1, "name": "Handloom cotton saree", "category": "Clothing", "price": 2499, "stock": 5, "emoji": "🥻", "description": "Lightweight handloom cotton with a zari border." },
+  { "id": 2, "name": "Brass oil lamp", "category": "Home", "price": 899, "stock": 12, "emoji": "🪔", "description": "Hand-finished brass lamp for daily puja." },
+  { "id": 3, "name": "Wireless earbuds", "category": "Electronics", "price": 1999, "stock": 0, "emoji": "🎧", "description": "Eight hours of playback with a charging case." },
+  { "id": 4, "name": "Filter coffee set", "category": "Kitchen", "price": 1250, "stock": 8, "emoji": "☕", "description": "Steel dabara and tumbler set." },
+  { "id": 5, "name": "Leather wallet", "category": "Accessories", "price": 749, "stock": 3, "emoji": "👛", "description": "Slim bifold wallet with six card slots." },
+  { "id": 6, "name": "Spice box", "category": "Kitchen", "price": 640, "stock": 15, "emoji": "🫙", "description": "Seven-compartment steel masala dabba." },
+  { "id": 7, "name": "Smartwatch", "category": "Electronics", "price": 3499, "stock": 4, "emoji": "⌚", "description": "Heart-rate tracking and a week-long battery." },
+  { "id": 8, "name": "Cotton kurta", "category": "Clothing", "price": 1100, "stock": 10, "emoji": "👕", "description": "Breathable cotton kurta for everyday wear." },
+  { "id": 9, "name": "Desk plant pot", "category": "Home", "price": 350, "stock": 20, "emoji": "🪴", "description": "Glazed ceramic pot with a drainage hole." },
+  { "id": 10, "name": "Notebook set", "category": "Stationery", "price": 299, "stock": 25, "emoji": "📓", "description": "Three ruled notebooks, A5 size." },
+  { "id": 11, "name": "Bluetooth speaker", "category": "Electronics", "price": 2799, "stock": 2, "emoji": "🔊", "description": "Portable speaker with water resistance." },
+  { "id": 12, "name": "Steel water bottle", "category": "Accessories", "price": 520, "stock": 30, "emoji": "🧴", "description": "Double-wall insulated bottle, 750 ml." }
+]
